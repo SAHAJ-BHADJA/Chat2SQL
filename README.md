@@ -1,54 +1,7 @@
 <div align="center">
-  <h2>🚀 Zoer is Launching</h2>
-  <p><strong>Powered by Chat2DB Team - AI-powered app builder that creates professional applications in minutes, no coding required</strong></p>
-  
-  <a href="https://zoer.ai/?utm_source=chat2db&utm_medium=banner&utm_campaign=github" target="_blank">
-    <img width="1000" height="auto" alt="Zoer - AI App Builder" src="https://github.com/user-attachments/assets/2f2a682d-9cc0-4470-93d3-19b4f1f6589e" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-  </a>
-  
-  <br/><br/>
-  
-  ---
-  
-  <br/>
-  
-  <a href="https://trendshift.io/repositories/11808" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11808" alt="CodePhiliaX%2FChat2DB | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
-  </a>
-</div>
-
-<div align="center">
-  <h3>New Open-Source Project from the Chat2DB Team: <a href="https://github.com/CodePhiliaX/youClaw">youClaw</a></h3>
-  <p>If Chat2DB has been useful to you, we'd appreciate a quick star on <strong>youClaw</strong>. Early stars help new open-source projects get discovered, attract contributors, and keep us building in public.</p>
-  <a href="https://github.com/CodePhiliaX/youClaw">
-    <img alt="Star youClaw on GitHub" src="https://img.shields.io/badge/Star-youClaw-181717?style=for-the-badge&logo=github" />
-  </a>
-</div>
-
-<div align="center">
-  
-[![ReadmeX][readmex-image]][readmex-url]
-[![Discord][discord-image]][discord-url]
-[![Twitter][twitter-image]][twitter-url]
-[![Telegram][telegram-image]][telegram-url]
-[![Whatsapp][whatsapp-image]][whatsapp-url]
-[![Reddit][reddit-image]][reddit-url]
-[![Gmail][gmail-image]][gmail-url]
-
-[readmex-image]: https://raw.githubusercontent.com/CodePhiliaX/resource-trusteeship/main/readmex.svg
-[readmex-url]: https://readmex.com/CodePhiliaX/Chat2DB
-[discord-image]: https://img.shields.io/badge/-Join%20us%20on%20Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white
-[discord-url]: https://discord.com/invite/uNjb3n5JVN
-[twitter-image]: https://img.shields.io/twitter/follow/_Chat2DB?label=Chat2DB
-[twitter-url]: https://twitter.com/intent/tweet?text=Chat2DB-An%20intelligent%20and%20versatile%20general-purpose%20SQL%20client%20and%20reporting%20tool%20for%20databases%20which%20integrates%20ChatGPT%20capabilities.&url=https://github.com/chat2db/Chat2DB&hashtags=ChatGPT,AGI,SQL%20Client,Reporting%20tool
-[telegram-image]: https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https://github.com/chat2db/Chat2DB
-[telegram-url]: https://t.me/share/url?text=Chat2DB-An%20intelligent%20and%20versatile%20general-purpose%20SQL%20client%20and%20reporting%20tool%20for%20databases%20which%20integrates%20ChatGPT%20capabilities.&url=https://github.com/chat2db/Chat2DB
-[whatsapp-image]: https://img.shields.io/twitter/url?label=whatsapp&logo=whatsapp&style=social&url=https://github.com/chat2db/Chat2DB
-[whatsapp-url]: https://api.whatsapp.com/send?text=Chat2DB-An%20intelligent%20and%20versatile%20general-purpose%20SQL%20client%20and%20reporting%20tool%20for%20databases%20which%20integrates%20ChatGPT%20capabilities.%20https://github.com/chat2db/Chat2DB
-[reddit-image]: https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=social&url=https://github.com/chat2db/Chat2DB
-[reddit-url]: https://www.reddit.com/submit?url=https://github.com/chat2db/Chat2DB&title=Chat2DB-An%20intelligent%20and%20versatile%20general-purpose%20SQL%20client%20and%20reporting%20tool%20for%20databases%20which%20integrates%20ChatGPT%20capabilities.
-[gmail-image]: https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https://github.com/chat2db/Chat2DB
-[gmail-url]: mailto:?subject=Check%20this%20GitHub%20repository%20out.&body=Chat2DB-An%20intelligent%20and%20versatile%20general-purpose%20SQL%20client%20and%20reporting%20tool%20for%20databases%20which%20integrates%20ChatGPT%20capabilities.%3A%0Ahttps://github.com/chat2db/Chat2DB
-
+  <h1>Chat2SQL</h1>
+  <p><strong>AI-powered SQL development and database management built on the Chat2DB project.</strong></p>
+  <p>Connect to multiple databases, write queries faster, explore schemas, and manage data from a single workspace.</p>
 </div>
 
 <div align="center">
@@ -309,34 +262,3 @@ $ cp -r dist ../chat2db-server/chat2db-server-start/src/main/resources/static/fr
 $ cp -r dist/index.html ../chat2db-server/chat2db-server-start/src/main/resources/thymeleaf
 ```
 
-##  Contact Us
-
-- Email: Chat2DB@ch2db.com
-- Discord: [Join our Discord server](https://discord.gg/JDkwB6JS8A)
-- Twitter: [@Chat2DB](https://x.com/Chat2DB_AI)
-- YouTube: [Chat2DB Channel](https://www.youtube.com/@chat2db.tutorial)
-- GitHub: [Chat2DB GitHub](https://github.com/codePhiliaX/chat2db)
-
-
-##  Acknowledgments
-
-
-Thanks to everyone who has contributed to Chat2DB~~
-
-
-<a href="https://github.com/chat2db/Chat2DB/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=chat2db/Chat2DB" />
-</a>
-
-## Star History
-
-<a href="https://star-history.com/#CodePhiliaX/chat2db&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CodePhiliaX/chat2db&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CodePhiliaX/chat2db&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CodePhiliaX/chat2db&type=Date" />
-  </picture>
-</a>
-
-## License
-The primary license used by this software is the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), supplemented by the [Chat2DB License](./Chat2DB_LICENSE).
